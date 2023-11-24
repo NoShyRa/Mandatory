@@ -53,4 +53,3 @@ Password= wordpress
 - Pour lancer la pile de développement Docker : `docker-compose up -d`
 - Pour arrêter les conteneurs : `docker-compose stop` 
 - Pour arrêter et supprimer les conteneurs et le réseau : `docker-compose down` 
-
